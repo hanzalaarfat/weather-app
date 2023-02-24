@@ -1,0 +1,4 @@
+1. we can create a post Api for save faverate location.
+2. and we can a get req Api for taking faverate location data and display them.
+
+or we store data in local storage for Now but best way i think through Api.
